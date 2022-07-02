@@ -1,0 +1,17 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "",
+  "author": "GladysAbanto <gladysabanto99@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dexie": "^3.2.2",
+    "esbuild": "^0.14.47"
+  },
+  "scripts": {
+    "dev": "node ./config/config.js "
+  },
+  "devDependencies": {}
+}
